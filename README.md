@@ -2,5 +2,5 @@
 
 Setup:
 
--> `run npm i`
+-> `run npm i`\n
 -> `run npm start`
