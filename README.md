@@ -1,6 +1,6 @@
 # React Notes App
 
-Setup:
+To Setup Locally on your computer:
 
--> `run npm i`\n
+-> `run npm i`
 -> `run npm start`
